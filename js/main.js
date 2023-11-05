@@ -5,20 +5,12 @@
 
 	var projectsArray = [
 		{
-			"id": "projectTykOperator",
-			"url": "https://github.com/TykTechnologies/tyk-operator"
+			"id": "faraz",
+			"url": "https://farazcomm.com/?language=en"
 		},
 		{
-			"id": "projectCloudixia",
-			"url": "https://ajtima.com"
-		},
-		{
-			"id": "projectServ",
-			"url": "https://www.getserv.io"
-		},
-		{
-			"id": "projectSedkodes",
-			"url": "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g"
+			"id": "fiber_capacity",
+			"url": "https://research.chalmers.se/en/project/8796"
 		}
 	]
 
